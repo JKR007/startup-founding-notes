@@ -1,15 +1,18 @@
----
-
-### ✅ `MVP-CHECKLIST.md`
-
-```markdown
 # ✅ MVP Development Checklist (CTO Playbook)
 
 This checklist outlines the core tasks and responsibilities for building and launching the MVP.
 
+## 📚 Table of Contents
+- [1, Architecture & Setup](#1-architecture--setup)
+- [2. Core Features](#2-core-features)
+- [3. Frontend & UX](#3-frontend--ux)
+- [4. Monitoring & QA](#4-monitoring--qa)
+- [5. Deployment](#5-deployment)
+- [6. Notes for CTOs](#6-notes-for-ctos)
+
 ---
 
-## 🔧 Architecture & Setup
+## 1. Architecture & Setup
 
 | #  | Task                                                | Status |
 |----|-----------------------------------------------------|--------|
@@ -20,7 +23,7 @@ This checklist outlines the core tasks and responsibilities for building and lau
 
 ---
 
-## 🧠 Core Features
+## 2. Core Features
 
 | #  | Feature                                  | Status |
 |----|------------------------------------------|--------|
@@ -31,7 +34,7 @@ This checklist outlines the core tasks and responsibilities for building and lau
 
 ---
 
-## 🎨 Frontend & UX
+## 3. Frontend & UX
 
 | #  | Task                                      | Status |
 |----|-------------------------------------------|--------|
@@ -42,7 +45,7 @@ This checklist outlines the core tasks and responsibilities for building and lau
 
 ---
 
-## 📈 Monitoring & QA
+## 4 Monitoring & QA
 
 | #  | Task                                        | Status |
 |----|---------------------------------------------|--------|
@@ -53,7 +56,7 @@ This checklist outlines the core tasks and responsibilities for building and lau
 
 ---
 
-## 🚀 Deployment
+## 5 Deployment
 
 | #  | Task                                   | Status |
 |----|----------------------------------------|--------|
@@ -64,7 +67,7 @@ This checklist outlines the core tasks and responsibilities for building and lau
 
 ---
 
-## 🧠 Notes for CTOs
+## 6 Notes for CTOs
 
 - Keep everything documented in Notion or GitHub README
 - Lock dependencies early to avoid breakages
