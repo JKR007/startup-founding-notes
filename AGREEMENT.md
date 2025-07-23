@@ -2,6 +2,15 @@
 
 This document defines the terms, roles, responsibilities, and equity split between the co-founders of the startup project.
 
+## 📚 Table of Contents
+- [1. Parties](#1-parties)
+- [2. Ownership & IP](#2-ownership--ip)
+- [3. Equity Distribution](#3-equity-distribution)
+- [4. Investment Usage](#4-investment-usage)
+- [5. Revenue & Dividends](#5-revenue--dividends)
+- [6. Founder Exit Clause](#6-founder-exit-clause)
+- [7. Equity Split Formula (Early-Stage)](#7-equity-split-formula-early-stage)
+
 ---
 
 ## 1. Parties
